@@ -35,6 +35,14 @@
 </div>
 
 ###
+<h3 align="center">— EMBEDDED DEVICES I OWN —</h3>
+
+- ESP32 WROOM
+- ESP32 CAM N16R8
+
+
+###
+###
 
 <br clear="both">
 

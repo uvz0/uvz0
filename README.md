@@ -37,8 +37,8 @@
 ###
 <h3 align="center">— EMBEDDED DEVICES I OWN —</h3>
 
-- ESP32 WROOM
-- ESP32 CAM N16R8 (CAM)
+- ESP32 WROOM (With a exploded cap :) )
+- ESP32-S3 CAM N16R8 (CAM)
 
 
 ###
